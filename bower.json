@@ -1,0 +1,21 @@
+{
+  "name": "fullstackreactexpressmongo",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Mahantesh"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^15.4.1",
+    "skeleton": "^2.0.4"
+  }
+}
